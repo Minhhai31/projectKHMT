@@ -8,3 +8,5 @@ if __name__ == '__main__':
     # Train using GPU
     model.train(data=r"D:\projectKHMT\data.yaml",
                 epochs=100, imgsz=640, device="cpu")  # hoặc device=0 nếu có nhiều GPU
+
+#update code
